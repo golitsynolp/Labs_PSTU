@@ -18,7 +18,7 @@
 
 | Номер задачи | Статус по коду | Статус по блок-схеме |
 | --- | --- | --- |
-| 1.1 | :red_circle: | :red_circle: |
+| 1.1 | :green_circle: | :green_circle: |
 | 1.2 | :red_circle: | :red_circle: |
 | 1.3 | :red_circle: | :red_circle: |
 | 2.1 | :red_circle: | :red_circle: |
